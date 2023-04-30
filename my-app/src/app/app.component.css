@@ -1,0 +1,47 @@
+.container {
+    background-image: url('https://depthdreaming.com/wp-content/uploads/2020/12/Dancing-Dream-Meaning.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    margin-right: 0.5rem;
+  }
+  
+  input {
+    margin-right: 1rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+  }
+  
